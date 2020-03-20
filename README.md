@@ -6,3 +6,5 @@ This Pre-Trained Face-net architecture is used in classifying the 5 Celebrity Fa
 
 We will use an MTCNN model for detecting the faces in the celebrity images,the FaceNet model will be used to create a face embedding(embedding vector) for each detected face, then we will develop a Linear Support Vector Machine (SVM) classifier model to classify the images.
 
+Extract train.rar and val.rar in the same folder and download the facenet pre trained network from below link and add it to the same folder, click on here [face_net_keras.h5](https://www.kaggle.com/suicaokhoailang/facenet-keras)
+

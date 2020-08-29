@@ -1,6 +1,6 @@
 # Simple-Implementation-of-pre-Trained-Face-net-architecture
 
-Face-Net is a start-of-art face recognition algorithm. It is 22-layers deep neural network that directly trains its output to be a 128-dimensional embedding. The loss function used in this network is called triplet loss.
+Face-Net is a start-of-art face recognition algorithm. It is a 22-layers deep neural network that directly trains its output to be a 128-dimensional embedding. The loss function used in this network is called triplet loss.
 
 This Pre-Trained Face-net architecture is used in classifying the 5 Celebrity Faces Dataset.It includes photos of: Ben Affleck, Elton John, Jerry Seinfeld, Madonna, and Mindy Kaling. This dataset is already splitted into training and validation
 
